@@ -9,7 +9,7 @@ Use uma pasta para colocar os códigos de cada trabalho conforme o modelo do nom
 
 Esse arquivo Readme.md deve conter todas os relatórios de atividade.
 
-# 01_nome_do_trabalho
+## 01 - nome do trabalho
 
 - O que você fez
     - fiz bla bla bla
@@ -19,7 +19,7 @@ Esse arquivo Readme.md deve conter todas os relatórios de atividade.
 - O que tem dificuldade ainda
 - Quanto tempo levou pra fazer a atividade
 
-# Trabalho 2
+## 02 - nome do trabalho
 
 - O que você fez
     - fiz bla bla bla
@@ -29,7 +29,7 @@ Esse arquivo Readme.md deve conter todas os relatórios de atividade.
 - O que tem dificuldade ainda
 - Quanto tempo levou pra fazer a atividade
 
-# Trabalho 3
+## 03 - nome do trabalho
 
 - O que você fez
     - fiz bla bla bla
